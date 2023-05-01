@@ -12,8 +12,8 @@ body {
 }
  
 p{
-    font-size: 9.5px;
-    line-height: 9.5px;
+    font-size: 11px;
+    line-height: 11px;
     background: url(kk.jpg);
     background-attachment: fixed;
     -webkit-background-clip: text;
